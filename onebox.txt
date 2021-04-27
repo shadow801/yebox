@@ -2,3 +2,4 @@ onebox version1 --> wenbox edit
 onebox version1 --> wenbox edit
 onebox version1 --> yebox edit
 onebox version1 --> bibox edit
+onebox version1 --> yebox ssh test
